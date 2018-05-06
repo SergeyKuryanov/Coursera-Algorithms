@@ -11,3 +11,4 @@
 * [WordNet (Week 1, 100/100)](/WordNet/)
 * [Seam Carving (Week 2, 100/100)](/Seam%20Carving/)
 * [Baseball Elimination (Week 3, 100/100)](/Baseball%20Elimination/)
+* [Boggle (Week 4, 100/100)](/Boggle/)
